@@ -1,5 +1,5 @@
 """
-CustomerMembership_ScatterPlots.py
+CustomerMembership_ScatterPlot.py
 Copyright (C) 2020 Rigved Rakshit
 
 This program is free software: you can redistribute it and/or modify
