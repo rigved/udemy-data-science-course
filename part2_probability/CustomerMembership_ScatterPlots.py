@@ -30,3 +30,4 @@ sns.set(color_codes=True)
 sns.regplot(x='Customer Age', y='Membership Status', data=data, logistic=True)
 
 plt.show()
+
