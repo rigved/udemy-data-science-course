@@ -55,4 +55,3 @@ plt.ylabel('Daily Views: CDF')
 plt.plot(days_after_release, p, color=cmap(2))
 
 plt.show()
-
