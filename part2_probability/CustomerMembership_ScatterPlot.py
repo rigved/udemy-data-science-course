@@ -20,7 +20,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 import seaborn as sns
 
-data = pd.read_excel('Customers_Membership.xlsx', sheet_name='Membership Status', usecols='A:B')
+data = pd.read_excel('data/Customers_Membership.xlsx', sheet_name='Membership Status', usecols='A:B')
 
 print(data)
 

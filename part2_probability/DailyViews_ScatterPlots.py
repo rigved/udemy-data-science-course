@@ -21,7 +21,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 import matplotlib as mpl
 
-data = pd.read_excel('Daily_Views.xlsx', sheet_name='Views', usecols='A:B')
+data = pd.read_excel('data/Daily_Views.xlsx', sheet_name='Views', usecols='A:B')
 days_after_release = data['Days after release'].values
 daily_views = data['Daily Views'].values
 cdf = np.cumsum(daily_views)

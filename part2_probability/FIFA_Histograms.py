@@ -20,7 +20,7 @@ import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
 
-csv_data = pd.read_csv('FIFA.csv')
+csv_data = pd.read_csv('data/FIFA.csv')
 csv_data_small = csv_data.iloc[:30].copy()
 overall = csv_data['Overall'].values
 overall_small = csv_data_small['Overall'].values
