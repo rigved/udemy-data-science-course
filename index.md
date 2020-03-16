@@ -1,5 +1,5 @@
 # $ Description
-* My solutions the [Udemy Data Science Course:
+* My solutions to the [Udemy Data Science Course:
 Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
 curriculum.
 
