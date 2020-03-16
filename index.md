@@ -6,6 +6,6 @@ curriculum.
 # $ Author
 * @rigved
 
-# $ Projects
+# $ Parts
 * [Part 2: Probability](https://github.com/rigved/udemy-data-science-course/tree/master/part2_probability)
 * [Part 3: Statistics](https://github.com/rigved/udemy-data-science-course/tree/master/part3_statistics)
